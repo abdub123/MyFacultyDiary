@@ -28,8 +28,8 @@ You need to have the following software installed on your machine:
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-username/diary-app.git
-    cd diary-app
+    git clone https://github.com/abdub123/diary-app.git
+    cd MyFacultyDiary-app
     ```
 
 2. **Open the project in Android Studio:**
@@ -75,6 +75,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you have any questions or feedback, feel free to reach out:
 
-- Email: your-email@example.com
+- Email: abdubdiba11@gmail.com
 - GitHub: [your-username](https://github.com/abdub123)
 
